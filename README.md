@@ -30,3 +30,7 @@ and contour extraction for polygonization of boundary predictions.
 # Results of Contour-Loss(Gap Loss) Vs Binary Cross Entropy
 
 ![image](https://github.com/ashikbharishivaprasad/AFB_Delineation/assets/100797850/aa5a3bbe-b86e-4224-b094-b30c5520b14f)
+
+
+![image](https://github.com/ashikbharishivaprasad/AFB_Delineation/assets/100797850/1ed4cafc-2bf9-4382-8313-d81ddd722bd4)
+
